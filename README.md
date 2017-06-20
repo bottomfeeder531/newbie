@@ -1,0 +1,2 @@
+# newbie
+chat for newbies
