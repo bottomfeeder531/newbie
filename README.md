@@ -1,5 +1,3 @@
 # hello-world
 
------------------
-
-This is a chat for new users to freecodecamp
+I have hope that this program will help me understand the way I think
