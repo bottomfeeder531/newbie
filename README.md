@@ -1,5 +1,5 @@
 # hello-world
 
------------------
-
-This is a chat for new users to freecodecamp
+I like pie
+Music is something that is very close to my heart
+I often overthink as well
